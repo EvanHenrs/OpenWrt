@@ -23,7 +23,7 @@ env:
   CLASH_KERNEL: arm64
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: Rockchip
+  FIRMWARE_TAG: Rockchip Mini
   TZ: Asia/Shanghai
 
 jobs:
