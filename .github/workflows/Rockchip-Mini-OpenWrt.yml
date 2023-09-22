@@ -16,8 +16,8 @@ on:
 env:
   SOURCE_URL: https://github.com/coolsnowwolf/lede
   SOURCE_BRANCH: master
-  CONFIG_FILE: configs/rockchip_Mini.config
-  EXTRA_CONFIG: configs/extra_Mini.config
+  CONFIG_FILE: configs/rockchip-Mini.config
+  EXTRA_CONFIG: configs/extra-Mini.config
   DIY_SCRIPT: diy-script.sh
   TOOLCHAIN_TAG: Toolchain
   CLASH_KERNEL: arm64
